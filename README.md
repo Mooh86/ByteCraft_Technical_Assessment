@@ -13,12 +13,15 @@ Allure Reporting
 extent-spark.html
 Task Requirements :
 Web GUI Test Automation:
+
 ******* Google Search*********
+
 1- Navigate to "https://www.google.com/ncr"
 
 2- Search for "selenium webdriver"
 
 3- Check that the third result text contains "What is Selenium WebDriver?" Although test result contains Download (the third text)
+
 *******Herokuapp********
 
 1- Navigate to "https://the-internet.herokuapp.com/"
