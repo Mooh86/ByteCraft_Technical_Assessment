@@ -1,10 +1,10 @@
-ByteCraft_Techinical_Assessment Using Selenium and RESTAssured
+* ByteCraft_Techinical_Assessment Using Selenium and RESTAssured
 
-Using Selenium and RESTAssured is a assessment project to perform some GUI and API Tests using selenium and RESTAssured.
+* Using Selenium and RESTAssured is a assessment project to perform some GUI and API Tests using selenium and RESTAssured.
 
-Using Page Object Model design pattern
+* Using Page Object Model design pattern
 
-These Test Automation Scripts built With :
+--These Test Automation Scripts built With :
 
 -Java
 
