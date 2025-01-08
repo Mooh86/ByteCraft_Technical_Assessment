@@ -5,13 +5,21 @@ Using Page Object Model design pattern
 
 These Test Automation Scripts built With :
 Java
+
 Maven
+
 Selenium
+
 RESTAssured
+
 TestNG
+
 Allure Reporting
+
 extent-spark.html
+
 Task Requirements :
+
 Web GUI Test Automation:
 
 ******* Google Search*********
