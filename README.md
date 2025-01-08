@@ -4,21 +4,22 @@ Using Selenium and RESTAssured is a assessment project to perform some GUI and A
 Using Page Object Model design pattern
 
 These Test Automation Scripts built With :
-Java
 
-Maven
+-Java
 
-Selenium
+-Maven
 
-RESTAssured
+-Selenium
 
-TestNG
+-RESTAssured
 
-Allure Reporting
+-TestNG
 
-extent-spark.html
+-Allure Reporting
 
-Task Requirements :
+-extent-spark.html
+
+-Task Requirements :
 
 Web GUI Test Automation:
 
