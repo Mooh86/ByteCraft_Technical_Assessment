@@ -24,7 +24,7 @@ public class Test_HeroKuapp {
 
     @BeforeClass
     public void setupReport() {
-        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("extent-spark.html");
+        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("HeroKu_App_Report.html");
         sparkReporter.config().setTheme(Theme.STANDARD);
         sparkReporter.config().setDocumentTitle("Automation Test Report");
         sparkReporter.config().setReportName("Test Execution Report");
