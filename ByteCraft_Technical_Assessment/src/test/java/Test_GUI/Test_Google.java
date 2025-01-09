@@ -26,7 +26,7 @@ public class Test_Google {
     @BeforeMethod
     public void Initiate_driver() {
         // Initialize ExtentReports
-        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("extent-spark.html");
+        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("Google_Report.html");
         sparkReporter.config().setTheme(Theme.STANDARD);
         sparkReporter.config().setDocumentTitle("Automation Test Report");
         sparkReporter.config().setReportName("Test Execution Report");
